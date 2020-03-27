@@ -1,5 +1,5 @@
 ﻿body{
-    font-size:20px
+    background-color: khaki;
 }
 ul#menu li {
     display: inline;
@@ -12,8 +12,8 @@ ul#menu {
     padding: 0;
     width: 100%;
     overflow: hidden;
-    background-color: #333333;
-    font-size: 32px;
+    background-color: #3a3939;
+    font-size: 30px;
 }
 ul#menu li a:hover {
     color: #33cc33;
