@@ -1,0 +1,30 @@
+﻿body{
+    font-size:20px
+}
+ul#menu li {
+    display: inline;
+    
+}
+ul#menu {
+    list-style-type: none;
+    position: fixed;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow: hidden;
+    background-color: #333333;
+    font-size: 32px;
+}
+ul#menu li a:hover {
+    color: #33cc33;
+}
+ul#menu li a {
+    color: #009900;
+}  
+.center {
+    display: block;
+    margin:auto
+}
+.flex-container {
+    display: flex;
+}
